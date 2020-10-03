@@ -12,19 +12,24 @@ sleep 1
 echo $me "
 █████████
 \033[1;93m█▄█████▄█      \033[1;91m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
-\033[1;93m█\033[1;92m▼▼▼▼▼ \033[1;92m- _ --_--\033[1;95m╔╦╗┌─┐┬─┐┬┌─   ╔═╗╔╗ 
-\033[1;93m█ \033[1;92m \033[1;92m_-_-- -_ --__\033[1;93m ║║├─┤├┬┘├┴┐───╠╣ ╠╩╗
-\033[1;93m█\033[1;92m▲▲▲▲▲\033[1;92m--  - _ --\033[1;96m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝ \033[1;96mtools-Dark
+\033[1;93m█\033[1;92m▼▼▼▼▼ \033[1;92m- _ --_--\033[1;95mTOOLS BOKEP 
+\033[1;93m█ \033[1;92m \033[1;92m_-_-- -_ --__\033[1;93mTOOLS BOKEP
+\033[1;93m█\033[1;92m▲▲▲▲▲\033[1;92m--  - _ --\033[1;96mTOOLS BOKEP\033[1;96mTools Bokep
 \033[1;93m█████████      \033[1;92m«----------✧----------»
 \033[1;93m ██ █"
 
-echo $cyan " MENGINSTALL BOKEP"
+echo $ij "
+═══════════════════════════════════════════
+echo $cyan  MENGINSTALL BOKEP
+═══════════════════════════════════════════
 sleep 10
-echo $cyan " SEDANG MENGHUBUNGKAN VPN"
+echo $cyan  SEDANG MENGHUBUNGKAN VPN
+═══════════════════════════════════════════
 sleep 10
-echo $cyan " MEMBUKA SITUS BOKEP⭕"
-clear
+echo $cyan  MEMBUKA SITUS BOKEP⭕
+═══════════════════════════════════════════
 sleep 10
-echo $cyan " 🔘 SELAMAT MENONTON 🔘"
+echo $cyan  🔘 SELAMAT MENONTON 🔘
+═══════════════════════════════════════════
 sleep 20
 termux-open https://inibokep.pro/2020/05/31/bokep-indo-video-viral-pelajar-smp-pekanbaru-bergoyang/
