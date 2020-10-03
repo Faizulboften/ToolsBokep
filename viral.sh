@@ -33,3 +33,5 @@ sleep 10
 echo $cyab " ⭕ AWASS JANGAN SAMPE CROOT YAA⭕ "
 sleep 20
 termux-open https://inibokep.pro/2020/05/31/bokep-indo-video-viral-pelajar-smp-pekanbaru-bergoyang/
+
+echo $cyan " NONTON GAK USH BALIK KE TERMUX KAMPRET
