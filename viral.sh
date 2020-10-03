@@ -18,7 +18,6 @@ echo $me "
 \033[1;93m█████████      \033[1;92m«----------✧----------»
 \033[1;93m ██ █"
 
-echo $ij "
 echo $cyan  "MENGINSTALL BOKEP"
 
 sleep 10
