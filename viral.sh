@@ -19,17 +19,18 @@ echo $me "
 \033[1;93m ██ █"
 
 echo $ij "
-═══════════════════════════════════════════
-echo $cyan  MENGINSTALL BOKEP
-═══════════════════════════════════════════
+echo $cyan  "MENGINSTALL BOKEP"
+
 sleep 10
-echo $cyan  SEDANG MENGHUBUNGKAN VPN
-═══════════════════════════════════════════
+echo $cyan  "SEDANG MENGHUBUNGKAN VPN"
+
 sleep 10
-echo $cyan  MEMBUKA SITUS BOKEP⭕
-═══════════════════════════════════════════
+echo $cyan  "MEMBUKA SITUS BOKEP⭕"
+
 sleep 10
-echo $cyan  🔘 SELAMAT MENONTON 🔘
-═══════════════════════════════════════════
+echo $cyan  "🔘 SELAMAT MENONTON 🔘"
+
+sleep 10
+echo $cyab " ⭕ AWASS JANGAN SAMPE CROOT YAA⭕ "
 sleep 20
 termux-open https://inibokep.pro/2020/05/31/bokep-indo-video-viral-pelajar-smp-pekanbaru-bergoyang/
